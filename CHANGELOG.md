@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1
+
+- Update package description
+- Add screenshots to README
+
 ## 1.0.0
 
 - Initial release
