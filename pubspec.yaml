@@ -1,0 +1,20 @@
+name: flutter_coverage_report
+description: Generate Playwright-style HTML coverage reports from Flutter/Dart lcov.info files. Modern, interactive UI with GitHub Primer design system.
+version: 1.0.0
+repository: https://github.com/techinpark/flutter_coverage_report
+homepage: https://github.com/techinpark/flutter_coverage_report
+issue_tracker: https://github.com/techinpark/flutter_coverage_report/issues
+
+environment:
+  sdk: ^3.0.0
+
+executables:
+  fcr: fcr
+
+dependencies:
+  args: ^2.4.2
+  path: ^1.9.0
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
