@@ -4,6 +4,20 @@ Generate **Playwright-style** HTML coverage reports from Flutter/Dart `lcov.info
 
 A modern, interactive coverage report with GitHub Primer design system - replacing the outdated `genhtml` output with a sleek, responsive UI.
 
+## Screenshots
+
+### Dashboard View
+
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Light Mode](.github/images/light.png) | ![Dark Mode](.github/images/dark.png) |
+
+### Source Code View
+
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Source Light](.github/images/source_light.png) | ![Source Dark](.github/images/source_dark.png) |
+
 ## Features
 
 - **Playwright-style UI** - Modern, interactive HTML report
